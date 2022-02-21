@@ -1,0 +1,8 @@
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.csproj.AssemblyReference.cache
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.GeneratedMSBuildEditorConfig.editorconfig
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.AssemblyInfoInputs.cache
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.AssemblyInfo.cs
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.csproj.CoreCompileInputs.cache
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.MvcApplicationPartsAssemblyInfo.cache
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.RazorAssemblyInfo.cache
+E:\MNM-TKT\TranAnhThang1721050017MNMTKT\BaiThucHanh1402\obj\Debug\net5.0\BaiThucHanh1402.RazorAssemblyInfo.cs
