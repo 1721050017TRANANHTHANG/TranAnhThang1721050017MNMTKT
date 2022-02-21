@@ -15619,6 +15619,11 @@
   "RootNamespace": "BaiThucHanh1402",
   "Documents": [
     {
+      "FilePath": "e:\\MNM-TKT\\TranAnhThang1721050017MNMTKT\\BaiThucHanh1402\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\MNM-TKT\\TranAnhThang1721050017MNMTKT\\BaiThucHanh1402\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
